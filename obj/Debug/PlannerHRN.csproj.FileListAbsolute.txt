@@ -1,0 +1,15 @@
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\bin\Debug\PlannerHRN.exe.config
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\bin\Debug\PlannerHRN.exe
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\bin\Debug\PlannerHRN.pdb
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\obj\Debug\PlannerHRN.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\obj\Debug\App.g.cs
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\obj\Debug\PlannerHRN_MarkupCompile.cache
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\obj\Debug\PlannerHRN_MarkupCompile.lref
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\obj\Debug\MainWindow.baml
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\obj\Debug\PlannerHRN.g.resources
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\obj\Debug\PlannerHRN.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\obj\Debug\PlannerHRN.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\obj\Debug\PlannerHRN.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\obj\Debug\PlannerHRN.exe
+C:\Users\Dmitry\source\repos\PlannerHRN\PlannerHRN\obj\Debug\PlannerHRN.pdb
